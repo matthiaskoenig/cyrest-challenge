@@ -2,7 +2,8 @@
 ## Introduction
 
 Challenge 2017: http://nrnb.org/competition-2017.html  
-`cyREST API`: https://idekerlab.github.io/cyREST/
+`cyREST API`: https://idekerlab.github.io/cyREST/  
+`cyREST examples`: https://github.com/idekerlab/cy-rest-python  
 `py2cytoscape`: https://github.com/idekerlab/py2cytoscape
 
 ## Dependencies
@@ -12,7 +13,7 @@ Challenge 2017: http://nrnb.org/competition-2017.html
 ### python
 see `requirements.txt`
 
-## Installation
+## Creating results
 ### virtual environment
 To run the analysis and create the image a python virtual environment should be created.
 ```
@@ -30,12 +31,13 @@ mkvirtualenv cyrest-challenge
 # install kernel for ipython
 (cyrest-challenge) python -m ipykernel install --user --name=cyrest-challenge
 
-# start jupyter notbook
-jupyter notebook
+# start jupyter notebook
+jupyter notebook cyrest-challenge.ipynb
 
-# select notebook for model (cyrest-challenge.ipynb) and run notbook with the cyrest-challenge kernel
+# Run notbook with the cyrest-challenge kernel
 Kernel -> Change kernel -> cyrest-challenge
 Kernel -> Restart & Run All
 ```
 
+The resulting images are created in the results folder.
 
