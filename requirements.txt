@@ -1,0 +1,2 @@
+py2cytoscape>=0.6.2
+sbmlutils>=0.1.5a2
