@@ -10,7 +10,11 @@ Challenge 2017: http://nrnb.org/competition-2017.html
 `py2cytoscape`: https://github.com/idekerlab/py2cytoscape
 
 ## Submission
-The following workflow picture was submitted to the python category:
+The following workflow picture was submitted to the python category
+
+<img src="./results/cytoscape-repressilator.gif"></img>
+
+![challenge submission]("./results/images/comtime_100.png")
 
 
 The workflow is described and documented in  
