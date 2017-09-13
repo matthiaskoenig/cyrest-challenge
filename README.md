@@ -1,7 +1,8 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 # cyrest-challenge
 ## Introduction
-This repository contains the python workflow for the Cytoscape v3.5 CyREST Challenge.
+This repository contains the python workflow for the Cytoscape v3.5 CyREST Challenge 2017. The submission one first price in the python CyREST category
+http://nrnb.org/competitions.html
 
 For more information and cyrest API see:
 * `Challenge 2017`: http://nrnb.org/competition-2017.html  
